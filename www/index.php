@@ -5,7 +5,4 @@ function dds(){
 	return true;
 }
 
-echo "00006666000000";
-
 dds();
-
